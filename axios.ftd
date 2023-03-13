@@ -1,0 +1,9 @@
+-- import: fastn-stack.github.io/react-example/assets
+
+
+-- x-app:
+
+-- web-component x-app:
+js: $assets.files.axios.js
+
+-- end: x-app
