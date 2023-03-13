@@ -3,6 +3,7 @@
 -- x-like:
 
 -- web-component x-like:
+string name: Arpita
 js: $assets.files.script.js
 
 -- end: x-like
