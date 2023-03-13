@@ -1,9 +1,13 @@
 -- import: fastn-stack.github.io/react-example/assets
 
+-- string $name: Arpita
+
+-- ftd.text: $name
+
 -- x-like:
 
 -- web-component x-like:
-string name: Arpita
+string $name: $name
 js: $assets.files.script.js
 
 -- end: x-like
