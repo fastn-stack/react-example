@@ -5,10 +5,7 @@ FASTN Blank Package Template Repo
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fifthtry/fastn-heroku&env[DOWNLOAD_BASE_URL]=https://raw.githubusercontent.com/fastn-stack/react-example/main/)
 
 
-> 🧑‍🚀 **Seasoned traveler?** update this file. Enjoy!
-
-![doc-site](doc-site-example.png)
-
+This project shows the integration of react project with ftd.
 
 ## 🚀 Project Structure
 
@@ -24,6 +21,7 @@ Inside of your FASTN project, you'll see the following folders and files:
 │   	
 ├── FASTN.ftd
 ├── index.ftd
+├── script.js
 └── README.md
 ```
 
